@@ -1,4 +1,11 @@
 In this project, let's build a **Letters Calculator** by applying the concepts we have learned till now.
+### To Start the Project
+please run these Commands after cloning
+
+### to install all dependencies 
+npm install
+### for starting 
+npm start
 
 ### Refer to the image below:
 
